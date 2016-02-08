@@ -5,6 +5,7 @@
     "name": "Cerebris Corporation",
     "url": "http://cerebris.com"
   },
+  "main": ["orbit.min.js"],
   "licenses": [
     {
       "type": "MIT",
